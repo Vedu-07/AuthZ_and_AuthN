@@ -13,5 +13,5 @@
 ### 1) JWT And Its Methods Such As JWT.sign() & JWT.verify()
 ### 2) Bcrypt Library And Its Methods Such As bcrypt.hash() & bcrypt.compare()
 ### 3) Cookies and Cookie Parser
-### 4) Middlewares
+### 4) Middlewares Such As Express.json() And Cookie Parser
 
